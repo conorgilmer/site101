@@ -1,1 +1,18 @@
 webelevate 2.1
+Application Development
+CPD - Level 8
+-----------------------
+
+Fundamentals of Programming (Stars Course) 
+- Colours Guess Game 
+- Corona Game
+Mobile Development
+- 3 Corona Apps
+Social Media API
+- Cafe Libre
+- mobile jQuery
+Internet Programming 
+- Broken App
+- Property Website
+Industry Project
+- Upstarts.ie 
