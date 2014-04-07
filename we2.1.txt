@@ -6,13 +6,29 @@ CPD - Level 8
 Fundamentals of Programming (Stars Course) 
 - Colours Guess Game 
 - Corona Game
+- UCD Website Bootstrap
+
 Mobile Development
 - 3 Corona Apps
+
 Social Media API
 - Cafe Libre
 - mobile jQuery
+
 Internet Programming 
 - Broken App
 - Property Website
+
 Industry Project
-- Upstarts.ie 
+- Upstarts.ie
+	- Test Site
+	- Live Site
+
+User Centered Design
+- Presentation 
+- Final Presentation
+
+Digital Media Industry
+- GanZee Doc
+- Presentation Doc
+ 
